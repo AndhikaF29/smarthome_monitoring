@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import { FaThermometerHalf, FaTint, FaWater } from 'react-icons/fa';
 import styles from '../styles/Monitoring.module.css';
 import { Line } from 'react-chartjs-2';
 import {
